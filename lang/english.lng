@@ -1,0 +1,26 @@
+﻿##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions	
+STR_GRF_NAME					:HVW Badge Set
+STR_GRF_DESC					:{}{LTBLUE}Badge Set{}{BLACK}Code:{GREEN}SosMakaroni{} {COPYRIGHT}2025 SosMakaroni{}{GRAY}License: GPLv2{}{BLACK}Ver.3 2025.09.18.
+
+
+STR_POWER						:Propulsion
+STR_NATURGAS					:Natural gas
+STR_ELDIESEL					:Electric/Diesel
+
+STR_FLAG						:Livery
+
+STR_USAGE						:Usage
+STR_USAGE_CITY					:City
+STR_USAGE_SUBURB				:Suburb
+STR_USAGE_REGIONAL				:Regional
+STR_USAGE_INTERCITY			:InterCity
+STR_USAGE_TOURIST				:Tourist
+
+STR_REPAINT					:Repaint
+STR_REPAINT_SweDuke			:SweDuke
+STR_REPAINT_Colossal404		:Colossal404
+
+STR_2CC							:Company colour (2CC)
